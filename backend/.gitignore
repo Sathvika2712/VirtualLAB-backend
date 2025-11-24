@@ -3,4 +3,9 @@ dist/
 .env
 src/generated/prisma/*
 prisma/migrations/**/migration_lock.toml
+dev.db
+.DS_Store
+Thumbs.db
+.vscode
+prsima/dev.db-journal
 
